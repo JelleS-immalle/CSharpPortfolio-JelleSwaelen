@@ -1,0 +1,3 @@
+# CSharpPortfolio-JelleSwaelen
+
+## Subdirectory Classes
