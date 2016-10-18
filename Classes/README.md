@@ -2,4 +2,4 @@
 
 ## Classes
 
-..* [Aanmaken van een class](AanmakenClass)
++ [Aanmaken van een class](AanmakenClass)
