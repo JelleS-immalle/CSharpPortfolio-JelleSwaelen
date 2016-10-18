@@ -1,6 +1,6 @@
 # CSharpPortfolio-JelleSwaelen
 
-## Link naar Classes
+## Link naar onderverdelingen
 
 + [Classes] (Classes)
 
