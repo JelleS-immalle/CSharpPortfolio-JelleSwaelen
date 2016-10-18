@@ -1,3 +1,5 @@
 # CSharpPortfolio-JelleSwaelen
 
-## Subdirectory Classes
+## Classes
+
+..* [Aanmaken van een class](AanmakenClass)

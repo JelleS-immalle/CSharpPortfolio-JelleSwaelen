@@ -1,4 +1,6 @@
 # CSharpPortfolio-JelleSwaelen
 
-## Link naar subdirectory Classes
-[Classes] (Classes)
+## Link naar Classes
+..* [Classes] (Classes)
+..* [Public methods] (PublicMethods)
+..* [Private methods] (PrivateMethods)
