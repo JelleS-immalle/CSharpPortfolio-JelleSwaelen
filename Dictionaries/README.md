@@ -5,6 +5,13 @@
 Het volgende is een voorbeeld van een simple _Dictionary_.
 
 ```csharp
+using System;
+using System.Collections.Generic;
+
+class Program
+{
+    static void Main()
+    {
 	Dictionary<string, int> dictionary =
 	    new Dictionary<string, int>();
 
@@ -23,6 +30,8 @@ Het volgende is een voorbeeld van een simple _Dictionary_.
 	{
 	    Console.WriteLine(false);
 	}
+    }
+}
 ```
 
 De output is dan:
