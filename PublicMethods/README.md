@@ -1,8 +1,6 @@
 # CSharpPortfolio-JelleSwaelen
 
-## Classes
-
-### Public methods
+## Public methods
 
 Een public method kan wel aangeroepen worden van buiten de class waarin ze zich bevindt.
 
