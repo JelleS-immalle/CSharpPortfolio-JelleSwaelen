@@ -7,3 +7,5 @@
 + [Public methods] (PublicMethods)
 
 + [Private methods] (PrivateMethods)
+
++ [Dictionaries] (Dictionaries)
